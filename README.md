@@ -1,2 +1,16 @@
 # Marvel
-site on vue js with full list of marvel characters
+site on vuejs with full list of marvel characters
+
+
+Project setup
+npm install
+Compiles and hot-reloads for development
+npm run serve
+Compiles and minifies for production
+npm run build
+Run your tests
+npm run test
+Lints and fixes files
+npm run lint
+Customize configuration
+See Configuration Reference.
