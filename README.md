@@ -2,20 +2,20 @@
 site on vuejs with full list of marvel characters
 
 
-Project setup
-npm install
+    Project setup
+    npm install
 
-Compiles and hot-reloads for development
-npm run serve
+        Compiles and hot-reloads for development
+        npm run serve
 
-Compiles and minifies for production
-npm run build
+        Compiles and minifies for production
+        npm run build
 
-Run your tests
-npm run test
+        Run your tests
+        npm run test
 
-Lints and fixes files
-npm run lint
+        Lints and fixes files
+        npm run lint
 
-Customize configuration
-See Configuration Reference.
+        Customize configuration
+        See Configuration Reference.
